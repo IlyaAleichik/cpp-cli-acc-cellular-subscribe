@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuthorizationSystem">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBEAAAAAAAAAAAgAAAAAAAAEAAAAABEACAAAAAAGAAA=</HashCode>
+      <FileName>AuthorizationSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubscribeOwner">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAJAABAECAAAAAAAAAAAAAAAAAAAAgDAAAAAAGBIA=</HashCode>
+      <FileName>SubscribeOwner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Users">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>AuthorizationSystem.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Phone">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>SubscribeOwner.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="TariffType">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAQgAAAAAAA=</HashCode>
+      <FileName>SubscribeOwner.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
